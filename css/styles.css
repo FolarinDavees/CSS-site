@@ -2,6 +2,10 @@ a {
   color: #11999e;
 }
 
+a:hover{
+  color: #66bfbf;
+}
+
 body {
   font-family: "Merriweather", serif;
   margin: 0;
